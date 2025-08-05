@@ -13,8 +13,6 @@ def normalize(sentence: str) -> str:
     sentence = re.sub("（", '', sentence)
     sentence = re.sub("）", '', sentence)
     sentence = re.sub("・", '', sentence)
-    sentence = re.sub("『", '', sentence)  # removes anything in brackets
-    sentence = re.sub("』", '', sentence)  # removes anything in brackets
     sentence = re.sub("\n", '', sentence)  # removes anything in brackets
     return sentence
 
