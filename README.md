@@ -20,7 +20,7 @@ I have observed adjacent kanji/kanji pairs of 'words', hiragana-only 'words' (li
 I have not even considered potential 'morphemes' within kanji 'words' themselves, like "駅" + "弁" = "駅弁".
 And of course this could extend to the radicals of Han Chinese characters. This kind of "morphology" is far beyond my amateur command of Japanese.
 
-For now, I use this tool to extract kanji from easy-to-parse sentences and translate them so I can examine the raw syntax of a Japanese sentence with the 'content words' in my native language.
+For now, I use this tool to extract kanji from easy-to-parse sentences and translate them so I can examine the raw syntax of a Japanese sentence with the 'content words' translated to my native language.
 
 # Status 8/25/2025
 
