@@ -36,4 +36,4 @@ Jupyter notebook - segments and translates kanji-based words.
 
 Todo: Add sentence-ending verb extraction.
 
-Long-term: Encode words and sentences using a tokenizer like BERT.
+Long-term: Encode words and sentences using someone's BERT tokenizer for japanese (I am not smart or fluent enough to write that!)
