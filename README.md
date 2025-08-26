@@ -18,7 +18,7 @@ On the current dataset, Elementary Japanese sentences, this is working well.
 However real Japanese text has much more complex 'word' boundaries that exceed my proficiency in the language.
 I have observed adjacent kanji/kanji pairs of 'words', hiragana-only 'words' (like ある、する), and even full on particle dropping.
 I have not even considered potential 'morphemes' within kanji 'words' themselves, like "駅" + "弁" = "駅弁".
-And of course this could extend to the radicals of han chinese characters. This kind of "morphology" is far beyond my amateur command of Japanese.
+And of course this could extend to the radicals of Han Chinese characters. This kind of "morphology" is far beyond my amateur command of Japanese.
 
 For now, I use this tool to extract kanji from easy-to-parse sentences and translate them so I can see the raw syntax of a japanese sentence with the 'content words' in my native language.
 
