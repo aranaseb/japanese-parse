@@ -25,5 +25,7 @@ For now, I use this tool to extract kanji from easy-to-parse sentences and trans
 # Status 8/25/2025
 
 Jupyter notebook - segments and translates kanji-based words.
+
 Todo: Add particle analysis, sentence-ending verb extraction.
+
 Long-term: Encode words and sentences using a tokenizer like BERT.
